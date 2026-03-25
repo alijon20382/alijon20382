@@ -7,3 +7,6 @@ I work remotely and like to travel a lot,
 <a href="https://t.me/TheMvcDev">
 <code><img src="https://avatars.mds.yandex.net/i?id=a43ead672de6268cc05c7f9ffe49ee3266dd5444-5163221-images-thumbs&n=13" width="25px"></code>
 </a>
+<a href="https://instagram.com/TheMvcDev">
+<code><img src="https://avatars.mds.yandex.net/i?id=e178bd32ee59c475c5c7dbfbaf4ce9681313e39f-10104670-images-thumbs&n=13" width="25px"></code>
+</a>
