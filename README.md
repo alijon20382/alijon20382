@@ -8,5 +8,5 @@ I work remotely and like to travel a lot,
 <code><img src="https://avatars.mds.yandex.net/i?id=a43ead672de6268cc05c7f9ffe49ee3266dd5444-5163221-images-thumbs&n=13" width="25px"></code>
 </a>
 <a href="https://instagram.com/TheMvcDev">
-<code><img src="https://avatars.mds.yandex.net/i?id=15bcb41dbffb8e64c311309aaaa21fc74212493e-10416881-images-thumbs&n=13" width="25px"></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=15bcb41dbffb8e64c311309aaaa21fc74212493e-10416881-images-thumbs&n=13" width="35px"></code>
 </a>
