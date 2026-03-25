@@ -1,1 +1,1 @@
-## Hi I'm O'ktamov Alijon <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JlZ3o1Y2x5ZGd1eXQzdnhkbW82cmthd3ZxN2tqNmdxc3Q2eDRiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif" width="30px">
+## Hi I'm O'ktamov Alijon <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlyYjN0emFvdml3dmdjeTFlZHI1dTM3anpuYzU3dHd3YnNtbDl1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjxSbh6KnqSyRa1zk/giphy.gif" width="30px">
