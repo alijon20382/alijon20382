@@ -2,7 +2,7 @@
 
 
 I make videos on youtube about software development. <br>
-I work remotely and like to travel a lot, 
+I work remotely and like to travel a lot, <br><br>
 
 <a href="https://t.me/TheMvcDev">
 <code><img src="https://avatars.mds.yandex.net/i?id=a43ead672de6268cc05c7f9ffe49ee3266dd5444-5163221-images-thumbs&n=13" width="25px"></code>
@@ -13,3 +13,5 @@ I work remotely and like to travel a lot,
 <a href="https://youtube.com/TheMvcDev">
 <code><img src="https://avatars.mds.yandex.net/i?id=3c5c0b7fca7f07a5c69e898a88da0beebfb22e90-5234412-images-thumbs&n=13" width="25px"></code>
 </a>
+<br>
+<code>My name is Alijon <br> My surname is O'ktamov <br> I firthen year old. <br> I study fourteen school from jizzakh</code>
