@@ -11,5 +11,5 @@ I work remotely and like to travel a lot,
 <code><img src="https://avatars.mds.yandex.net/i?id=15bcb41dbffb8e64c311309aaaa21fc74212493e-10416881-images-thumbs&n=13" width="32px"></code>
 </a>
 <a href="https://youtube.com/TheMvcDev">
-<code><img src="https://avatars.mds.yandex.net/i?id=3c5c0b7fca7f07a5c69e898a88da0beebfb22e90-5234412-images-thumbs&n=13" width="32px"></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=3c5c0b7fca7f07a5c69e898a88da0beebfb22e90-5234412-images-thumbs&n=13" width="25px"></code>
 </a>
