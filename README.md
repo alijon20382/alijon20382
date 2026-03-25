@@ -5,5 +5,5 @@ I make videos on youtube about software development. <br>
 I work remotely and like to travel a lot, 
 
 <a href="https://t.me/TheMvcDev">
-<img style="border-radius: 50px;" src="https://avatars.mds.yandex.net/i?id=70c8aa5b5efab13e4c22637d5f947f8cf6ac1f6e-5303267-images-thumbs&n=13" width="50px">
+<img src="https://avatars.mds.yandex.net/i?id=70c8aa5b5efab13e4c22637d5f947f8cf6ac1f6e-5303267-images-thumbs&n=13" width="50px">
 </a>
