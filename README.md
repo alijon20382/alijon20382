@@ -4,7 +4,7 @@
 I make videos on youtube about software development. <br>
 I work remotely and like to travel a lot, <br><br>
 
-<a href="https://t.me/TheMvcDev">
+<a href="https://t.me/AlijonUktamov">
 <code><img src="https://avatars.mds.yandex.net/i?id=a43ead672de6268cc05c7f9ffe49ee3266dd5444-5163221-images-thumbs&n=13" width="25px"></code>
 </a>
 <a href="https://instagram.com/TheMvcDev">
