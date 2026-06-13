@@ -14,4 +14,4 @@ I work remotely and like to travel a lot, <br><br>
 <code><img src="https://avatars.mds.yandex.net/i?id=3c5c0b7fca7f07a5c69e898a88da0beebfb22e90-5234412-images-thumbs&n=13" width="25px"></code>
 </a>
 <br> <br> <br>
-<code>My name is Alijon <br> My surname is O'ktamov <br> I fourteen year old. <br> I study fourteen school from jizzakh</code>
+<code>My name is Alijon <br> My surname is O'ktamov <br> I fourteen years old. <br> I study fourteen school from jizzakh</code>
